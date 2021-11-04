@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/kacpe/Desktop/Aplikacje Android/Lab5/app/src/main/res/layout/activity_main.xml" value="0.24322799097065462" />
         <entry key="..\:/Users/kacpe/Desktop/Aplikacje Android/Lab5/app/src/main/res/layout/content_main.xml" value="0.10989583333333333" />
         <entry key="..\:/Users/kacpe/Desktop/Aplikacje Android/Lab5/app/src/main/res/layout/fragment_first.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/kacpe/Desktop/Aplikacje Android/Lab5/app/src/main/res/layout/fragment_second.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/kacpe/Desktop/Aplikacje Android/Lab5/app/src/main/res/layout/fragment_third.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/kacpe/Desktop/Aplikacje Android/Lab5/app/src/main/res/menu/menu_main.xml" value="0.22447916666666667" />
       </map>
     </option>
